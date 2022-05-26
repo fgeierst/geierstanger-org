@@ -1,1 +1,3 @@
-# geierstanger-org
+# geierstanger.org
+
+- https://geierstanger.org/
